@@ -53,6 +53,5 @@ Please ensure that your changes don’t break existing functionality. Before sub
 - **Write tests** for new features or bug fixes.
 - Run all existing tests to make sure everything still works as expected.
 
-## License
-By contributing to this project, you agree to license your contributions under the same license as the project. Please refer to the `LICENSE` file in the repository for more information.
+
 
