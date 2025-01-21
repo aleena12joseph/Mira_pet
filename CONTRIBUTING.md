@@ -1,6 +1,6 @@
-# Contributing to [Project Name]
+# Contributing to Mira
 
-Thank you for your interest in contributing to **[Project Name]**! We appreciate your effort to help improve this project. Please read the following guidelines to ensure that your contribution is aligned with the project’s standards.
+Thank you for your interest in contributing to Mira! We appreciate your effort to help improve this project. Please read the following guidelines to ensure that your contribution is aligned with the project’s standards.
 
 ## How to Contribute
 - **Reporting Issues**: Help identify bugs or issues in the project.
