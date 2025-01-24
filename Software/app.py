@@ -1,3 +1,5 @@
+# Please carefully review all provided comments to ensure a flawless implementation of the code.
+
 import google.generativeai as genai
 import datetime
 import requests
@@ -8,7 +10,7 @@ import speech_recognition as sr
 import pyttsx3
 import time
 
-Name = "Snow"
+Name = "<YOUR_BOT_NAME>"  # Name for your friendly bot
 
 memory = []
 respect = 75
@@ -21,8 +23,8 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 recognizer = sr.Recognizer()
 
-GOOGLE_TTS_API = "<YOUR_GOOGLE_CLOUD_API>"
-GEMINI_API_KEY = "<YOUR_GEMINI_AI_API>"
+GOOGLE_TTS_API = "<YOUR_GOOGLE_CLOUD_API>" # Paste your google cloud api key here
+GEMINI_API_KEY = "<YOUR_GEMINI_AI_API>"    # Paste your gemini api key here
 
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
