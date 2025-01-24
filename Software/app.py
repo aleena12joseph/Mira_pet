@@ -23,7 +23,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 recognizer = sr.Recognizer()
 
-GOOGLE_TTS_API = "<YOUR_GOOGLE_CLOUD_API>" # Paste your google cloud api key here
+GOOGLE_TTS_KEY = "<YOUR_GOOGLE_CLOUD_API>" # Paste your google cloud api key here
 GEMINI_API_KEY = "<YOUR_GEMINI_AI_API>"    # Paste your gemini api key here
 
 genai.configure(api_key=GEMINI_API_KEY)
@@ -51,7 +51,7 @@ def change_respect(prompt):
 
 def TTS(user_input):
     global speaking
-    url = "https://texttospeech.googleapis.com/v1/text:synthesize?key=" + GOOGLE_TTS_API
+    url = "https://texttospeech.googleapis.com/v1/text:synthesize?key=" + GOOGLE_TTS_KEY
     request_body = {
         "input": {"text": user_input},
         "voice": {"languageCode": "en-US", "ssmlGender": "NEUTRAL"},
