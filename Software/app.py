@@ -12,11 +12,12 @@ import time
 
 Name = "<YOUR_BOT_NAME>"  # Name for your friendly bot
 
-memory = []
 respect = 75
+stop_timer = 10
+timer = 0
+memory = []
 speaking = False
 alarm = False
-timer = 0
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
