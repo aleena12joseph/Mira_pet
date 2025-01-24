@@ -21,8 +21,8 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 recognizer = sr.Recognizer()
 
-GOOGLE_TTS_API = "AIzaSyDncunQw_iIj5afY5S1WYhzRkp3p3Tchzo"
-GEMINI_API_KEY = "AIzaSyCA0C3jLG4xgfzcYB8JHnl1s_V052fO0ds"
+GOOGLE_TTS_API = "<YOUR_GOOGLE_CLOUD_API>"
+GEMINI_API_KEY = "<YOUR_GEMINI_AI_API>"
 
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
