@@ -18,7 +18,7 @@ By contributing to this project, you agree to follow our [Code of Conduct](CODE_
    ```bash
    git clone https://github.com/your-username/project-name.git
    ```
-3. **Install Dependencies**: Install the necessary dependencies for the project by following the setup instructions in the `README.md` or `SETUP.md`.
+3. **Install Dependencies**: Install the necessary dependencies for the project by following the setup instructions in the `README.md` or `setup_guide.md`.
 4. **Create a Branch**: Create a new branch for your changes:
    ```bash
    git checkout -b feature/your-feature-name
