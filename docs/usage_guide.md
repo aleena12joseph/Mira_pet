@@ -81,7 +81,7 @@ Mira is an interactive AI-powered assistant designed to simplify your daily task
   - "Hey Mira, tell me a about Solar system"
 
 ---
-# Music Playback with Mira
+## Music Playback with Mira
 
 Once Mira is paired with your phone via Bluetooth, music will automatically play through Mira, and you can control it using your phone's music app.
 ---
