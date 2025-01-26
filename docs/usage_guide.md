@@ -81,6 +81,14 @@ Mira is an interactive AI-powered assistant designed to simplify your daily task
   - "Hey Mira, tell me a about Solar system"
 
 ---
+# Music Playback with Mira
+
+To control music playback, simply say *"Hey Mira"* followed by your desired command.
+
+### Example Commands:
+- *Play music*:  
+  "Hey Mira, play some music."
+
 
 ## Additional Features
 
