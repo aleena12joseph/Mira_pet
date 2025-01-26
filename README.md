@@ -19,6 +19,7 @@ The Smart Assistant for Emotional Well-being & Daily Assistance aims to revoluti
 7.Environmental sensing for humidity and temperature. <br>
 8.Personality customization for tailored interactions. <br>
 9.Educational tools and animated emotions for user engagement. <br>
+10.music playback. <br>
 
 ## 🤝 Contributing
 
