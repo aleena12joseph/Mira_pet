@@ -97,11 +97,6 @@ Mira is an **AI-powered, voice-activated smart assistant** designed for seamless
 
 ---
 
-## 📜 **License**  
-
-📜 **MIT License** – See [LICENSE](./LICENSE) for details.  
-
----
 
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=1000&height=80&lines=Mira+is+here+to+simplify+your+world!;🚀+Let's+build+the+future+together!">  
