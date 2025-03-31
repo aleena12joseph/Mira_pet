@@ -19,18 +19,6 @@
 
 ## 🌟🤖 **What is Mira?**  
 
-
-1.Displays current date and time.<br>
-2.Voice activation for hands-free interaction.<br>
-3.Provides weather reports. <br>
-4.Built-in lamp/light source. <br>
-5.Task reminders and alarms. <br>
-6.Fire alerts for emergency response. <br>
-7.Environmental sensing for humidity and temperature. <br>
-8.Personality customization for tailored interactions. <br>
-9.Educational tools and animated emotions for user engagement. <br>
-10.Guessing games <br>
-=======
 Mira is an **AI-powered, voice-activated smart assistant** designed for seamless human interaction. With advanced automation, emotional engagement, and safety features, Mira enhances daily life with:  
 
 
@@ -58,7 +46,7 @@ Mira is an **AI-powered, voice-activated smart assistant** designed for seamless
 
 🔹 **💡 Smart & Adaptive** – Evolves based on user interactions.  
 🔹 **❤️ Emotionally Engaging** – Expressive animations & personality customization.  
-🔹 **🔒 Safety-First Approach** – Fire alerts, real-time monitoring, and voice assistance.  
+🔹 **🔒 Safety-First Approach** – Real-time monitoring, and voice assistance.  
 🔹 **⚡ Voice-Driven Efficiency** – Hands-free control & AI-powered responses.  
 🔹 **📖 Intelligent Learning** – Knowledge-boosting educational tools.  
 
