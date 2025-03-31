@@ -39,7 +39,7 @@ Mira is an **AI-powered, voice-activated smart assistant** designed for seamless
 ✅ **🌡️ Environmental Sensing** – Monitors humidity & temperature.  
 ✅ **🎭 Personality Customization** – Adaptable expressions & moods.  
 ✅ **📚 AI Learning & Engagement** – Educational & interactive content.  
-✅ **🎵 Music Playback** – Smart entertainment on demand.  
+✅ **🕹️ Guessing games** – Smart entertainment.  
 
 ---
 
