@@ -1,4 +1,4 @@
-# 🚀 **Mira – The AI-Powered Smart Assistant**  
+# 🚀🤖 **Mira – The AI-Powered Smart Assistant**  
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/74038190/224525147-356164a1-3f04-4b65-8a70-b58f648bca25.gif" width="80%">  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 **What is Mira?**  
+## 🌟🤖 **What is Mira?**  
 
 Mira is an **AI-powered, voice-activated smart assistant** designed for seamless human interaction. With advanced automation, emotional engagement, and safety features, Mira enhances daily life with:  
 
