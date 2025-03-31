@@ -2,14 +2,13 @@
 
 ## 1. Hardware Requirements
 
-- **Raspberry Pi 3** (or higher)
+- **Raspberry Pi 4** (or higher)
 - **3 Servo Motors** (for movement)
 - **OLED Display**
 - **DHT11 Sensors** (for humidity and temperature)
 - **Motor Driver**
 - **LED**
 - **Microphone and Speaker**
-- **Amplifier**
 
 ## 2. Software Requirements
 
