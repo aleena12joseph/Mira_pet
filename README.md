@@ -33,9 +33,7 @@ Mira is an **AI-powered, voice-activated smart assistant** designed for seamless
 ✅ **🕒 Real-time Clock** – Displays current date & time.  
 ✅ **🎤 Voice Activation** – Hands-free interaction for effortless control.  
 ✅ **☁️ Weather Reports** – Stay updated on weather conditions.  
-✅ **💡 Built-in Smart Lighting** – Adaptive illumination.  
-✅ **⏰ Task Reminders & Alarms** – Never miss important tasks.  
-✅ **🔥 Fire & Safety Alerts** – Real-time emergency response.  
+✅ **💡 Built-in Smart Lighting** – Adaptive illumination.   
 ✅ **🌡️ Environmental Sensing** – Monitors humidity & temperature.  
 ✅ **🎭 Personality Customization** – Adaptable expressions & moods.  
 ✅ **📚 AI Learning & Engagement** – Educational & interactive content.  
