@@ -2,6 +2,8 @@ import adafruit_dht
 import time
 import board
 
+import oled
+
 # Initialize DHT11 sensor on GPIO 17
 dht_device = adafruit_dht.DHT11(board.D17)
 
@@ -14,8 +16,9 @@ def check_temp():
             print(f"Temperature: {temperature}°C")
             print(f"Humidity: {humidity}%")
 
-            if temperature > 40.0:
+            if temperature > 33.0:
                 print("⚠️ Temperature too high!")
+                oled.display(f"Temp: {temperature:.2f} C")
                 return 1
             else: return 0
 
