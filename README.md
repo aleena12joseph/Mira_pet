@@ -76,7 +76,7 @@ Mira is an **AI-powered, voice-activated smart assistant** designed for seamless
 </p>  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=500&height=50&lines=Coming+Soon...">  
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=500&height=50&lines=Welcome🎉...">  
 </p>  
 
 ---
