@@ -28,14 +28,14 @@ stop_timer = 10
 location = geocoder.ip("me")
 lat, lon = location.latlng if location.latlng else (10.824698, 76.645973)
 
-GOOGLE_TTS_API = "AIzaSyDncunQw_iIj5afY5S1WYhzRkp3p3Tchzo"
-GEMINI_API_KEY = "AIzaSyB7v1fRBse-pzwNiSKU3oBp3hRjAharFaw"
+GOOGLE_TTS_API = <YOUR_GOOGLE_CLOUD_APIKEY>
+GEMINI_API_KEY = <YOUR_GEMINI_AI_APIKEY>
 
 API_URL = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true"
 
 recognizer = sr.Recognizer()
 
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key = GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
 def display(emotion):
